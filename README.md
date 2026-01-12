@@ -4,7 +4,7 @@ A raylib (pyray) based 2D engine for building games with seamless altitude depth
 
 This is the initial python-based version of Stratos, utilising raylib's python bindings. However this comes at a performance cost, so once past the proof of concept stage this engine will be rewritten in C++ with standard raylib.
 
-Here is a simple example of engine useage for a space game. The player controlls a ship which can descend to a planet below. The player is able to walk around in their ship by pressing y. This is incomplete code, purely for demonstrating key features of Stratos.
+Here is a simple example of engine useage for a space game. The player controls a ship which can descend to a planet below. The player is able to walk around in their ship by pressing y. This is incomplete code, purely for demonstrating key features of Stratos.
 
 ```py
 import math
